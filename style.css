@@ -1,0 +1,28 @@
+.jumbotron{
+    background-color: #F6F8FB;;
+
+
+font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+margin: 0px;
+
+padding: 22px;
+
+color: #3d3d3d;
+}
+.imag{
+ max-width: 99%;
+ margin-right: 100%;
+}
+.nav-item{
+    font-size: 16px;
+    text-decoration-color: #02073E;
+    font-weight: 400;
+    cursor: pointer;
+    line-height: 1.2;
+    margin-right: 48px;
+    -webkit-transition: 500ms;
+    transition: 500ms;
+}
+.display-4{
+    font-size: 300%;
+}
